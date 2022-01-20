@@ -58,7 +58,7 @@ function radar_visualization(config) {
     { x: -675, y: -420 };
 
   const footer_offset =
-    { x: -675, y: 420 };
+    { x: -675, y: 490 };
 
   const legend_offset = [
     { x: 450, y: 90 },
@@ -279,7 +279,7 @@ function radar_visualization(config) {
     // footer
     radar.append("text")
       .attr("transform", translate(footer_offset.x, footer_offset.y))
-      .text("▲ moved up     ▼ moved down")
+      .text("▲ moved up     ▼ moved down     |     * built in House     † End of Life")
       .attr("xml:space", "preserve")
       .style("font-family", "Arial, Helvetica")
       .style("font-size", "10px");

@@ -1,96 +1,127 @@
 name,quadrant,ring,moved
-Airflow,1,0,0
-Amazon Cloudwatch,1,0,0
+Airflow,0,0,0
 Amplitude,1,0,0
-Angular,3,3,0
-Artifactory,1,0,0
-aws,1,0,0
+Angular †,3,3,0
+Ansible,0,3,0
+Artifactory,1,3,0
 AWS API Gateway,1,0,0
-AWS Codebuild,1,0,0
+AWS Cloudformation,1,3,0
+AWS Cloudfront,1,0,0
+AWS Cloudwatch,1,0,0
+AWS Codebuild,0,0,0
 AWS Cognito,1,1,0
-AWS DynamoDb,1,0,0
+AWS DynamoDB,1,0,0
+AWS EKS,1,0,0
+AWS Elastic Beanstalk †,1,3,0
+AWS Elasticache,1,2,0
+AWS Kinesis,1,1,0
 AWS Lambda,1,0,0
 AWS MSK,1,2,0
 AWS RDS,1,0,0
+AWS Redshift,1,0,0
 AWS SNS,1,0,0
 AWS SQS,1,0,0
-bugsnag,0,0,0
+AWS X-RAY,1,2,0
+Backbone †,3,3,0
+Browserstack,0,3,0
+bTrace,0,3,0
+Bugsnag,0,0,0
 Camunda,3,1,0
-Cloudformation,1,1,0
-Cloudfront,1,0,0
+Cashflow UI †,3,3,0
+commitizen,2,2,0
+Contentful,0,1,0
 CrossEngage,0,0,0
 Django (Python),3,3,0
-Docker,1,0,0
-docker hub,1,3,0
-docker swarm,0,3,0
+Docker,0,3,0
+Docker Hub,1,3,0
+Docker Swarm,0,3,0
 ELK stack,0,0,0
 Elm,2,2,0
-email-delivery-service,1,1,0
-Event Horizon,1,3,0
+Email-Delivery-Service *,0,1,0
+Event Horizon *,1,3,0
 Express.js,3,0,0
-FAP EKS Cluster,0,0,0
-FAP RDS Cluster,1,0,0
-fortigate,1,0,0
-Github,0,0,0
-Github Actions,1,0,0
+FAP EKS Cluster *,1,0,0
+FAP RDS Cluster *,1,0,0
+Flow †,0,3,0
+Github,1,0,0
+Github Actions,0,0,0
 Github Packages,1,0,0
 Golang,2,0,0
 Google Analytics,0,0,0
+Google Sign In,2,2,0
 Grafana,0,0,0
+GraphQL,2,1,0
+gRPC,2,1,0
 Hibernate + JPA,2,3,0
+Infrastructure as code,2,0,0
 Intares,1,3,0
-ionos / profitbriks,1,3,0
+Ionos / Profitbricks,1,3,0
 JAMStack,1,1,0
-Java 1.8,2,2,0
+Java 1.7 †,2,3,0
+Java 1.8,2,3,0
+Java 11,2,3,0
 Javascript,2,0,0
 Jenkins,0,3,0
 Kafka,1,2,0
-Kinesis,1,1,0
-Kubernetes,1,0,0
-Marta-MUI-Theme,3,0,0
+LaunchDarkly †,0,3,0
+Logentries †,0,3,0
+Marta-MUI-Theme *,3,0,0
 Material UI,3,0,0
+Message catalog *,2,0,0
 MikroORM,3,1,0
-MongoDB,1,2,0
+MongoDB,1,3,0
 mouseflow,0,1,0
 Myracloud / myrasecurity,1,3,0
-MySQL,1,0,0
+MySQL,1,3,0
 Nakadi,1,3,0
+nest.js,3,3,0
 next.js,3,0,0
-node.js (Javascript),3,1,0
-node.js (Typescript),2,0,0
+NodeJS,2,0,0
 Okta,0,0,0
-OpenAPI,0,0,0
+OpenAPI,2,0,0
 OpenJDK,0,1,0
 OpsGenie,0,1,0
 Optimizley,0,2,0
-ovh,1,3,0
-personio,0,0,0
+OVH †,1,3,0
 PHP,2,3,0
 Pingdom,0,0,0
-Postgres,1,0,0
+Postgres,1,3,0
 Postman,0,0,0
-Prometheus,1,0,0
+Prisma ORM,3,3,0
+Prometheus,0,0,0
+PRTG †,0,3,0
 R,2,2,0
 RabbitMQ,1,3,0
+RAML Documentation,2,3,0
 React,3,0,0
 React-Redux,3,0,0
+React-Saga,3,2,0
 Redis,1,0,0
-Redshift,1,0,0
-Release tracker,0,0,0
+Release Tracker *,0,0,0
+REST API,2,0,0
+Ruby †,2,3,0
 Rust,2,2,0
+Selenium / Selenoid,0,3,0
 Serverless Framework,3,1,0
+Service Oauth *,2,2,0
 Sitespect,0,0,0
+Smava UI † *,3,3,0
 Spinnaker,1,0,0
 Splunk,0,1,0
-Spring Framework (Java),3,3,0
-Spring-boot,3,3,0
+Spring Cloud,3,3,0
+Spring Framework,3,3,0
+StyledCompontents,3,2,0
+Superset,0,1,0
 Symfony,3,3,0
 Terraform,2,0,0
 test.io,0,1,0
 Travis,0,3,0
 Typescript,2,0,0
+UiPath,0,2,0
 vercel,1,1,0
+vmware †,1,3,0
 Vue.js,3,3,0
 Wordpress (PHP),0,3,0
 Zendesk,0,2,0
+Zuul routing †,0,3,0
 Grand Total,0,0,0
